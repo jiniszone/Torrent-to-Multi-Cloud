@@ -6,14 +6,14 @@
   "env": {
       "RCLONE_CONFIG_IN_RAW_URL": {
       "description": "Paste rclone config in RAW url (use githubgist secret)",
-      "value": "http://raw..gist../rclone.conf"
+      "value": ""
     },
       "WEBPASSWORD": {
-      "description": "Torrent downloader website password",
-      "value": "Enter your new password here"
+      "description": "Set a Password",
+      "value": ""
     },
       "WEBUSER": {
-      "description": "Torrent downloader website username (default username locked to developranaz for testing)",
+      "description": "Set a Username",
       "value": "Enter your new username here"
     }
 
