@@ -34,7 +34,7 @@
 <h4><b>3.After opening the Deployment page, Enter the following Values</b></h4>
 <!---Heroku Values--->
 <p><b>
-	      1.App name - Give a Nice name to your Index.<br>
+	      1.App name - Give a Nice name to your App.<br>
 	      2.RCLONE_CONFIG_IN_RAW_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
         3.WEBPASSWORD - If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
         4.WEBUSER - If you set authentication to "true" then change its value! This value will be your Index Password<br>
@@ -58,10 +58,9 @@
 <img src="Img/5.png" alt="10">
 <h4><b>6.Click "Add Variables" and enter the following Values to configure your Index.</b></h4>
 <p><b>
-  1.App name - Give a Nice name to your Index.<br>
-	      2.RCLONE_CONFIG_IN_RAW_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
-        3.WEBPASSWORD - If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
-        4.WEBUSER - If you set authentication to "true" then change its value! This value will be your Index Password<br>
+	1.RCLONE_CONFIG_IN_RAW_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
+        2.WEBPASSWORD - If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
+        3.WEBUSER - If you set authentication to "true" then change its value! This value will be your Index Password<br>
   </b></p>
   <h2><b>🖍️ Adding Custom Domain</b></h2>
 <h3><b><i>On Railway App:</i></b></h3>
