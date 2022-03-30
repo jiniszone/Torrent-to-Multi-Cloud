@@ -1,4 +1,4 @@
-# qBittorrent to Rclone 
+# qBittorrent Web UI
 
 This web application downloads your torrent-files or magnet links or torrent http links and uploads directly to your any rclone drive instantly.
 Here qBittorrent-nox (Linux) is used as web UI And Rclone is used as Uploader with the help of Docker.
