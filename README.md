@@ -84,5 +84,6 @@
 <h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
 <h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
 <h2><b>❤️Credits & Thanks</b></h2>
-<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For creating this Powerful Project and this All-in-one Guide.</b></p>
-<p><b><a href="https://hub.docker.com/u/developeranaz">DevAnaZ</a>: For Project on Docker Hub.</b></p>
+<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: Face Behind this.</b></p>
+<p><b><a href="https://hub.docker.com/u/developeranaz">DevAnaZ</a>: Mastermind.</b></p>
+<p><b>Anonymous: For Rapid Response.</b></p>
