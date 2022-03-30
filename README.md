@@ -30,7 +30,7 @@
 <h3><b><i>Deploy on Heroku:</i></b></h3>
 <h4><b>1.First open the app deployment page on Heroku: <a href="https://heroku.com/deploy?template=https://github.com/TheCaduceus/Torrent-to-Multi-Cloud" alt="Deploy on Heroku">Open it</a></b></h4>
 <h4><b>2.Now if you don't have a Heroku account then create once or just login!</b></h4>
-<img src="Img/heroku-1.png">
+<img src="Img/3.png">
 <h4><b>3.After opening the Deployment page, Enter the following Values</b></h4>
 <!---Heroku Values--->
 <p><b>
