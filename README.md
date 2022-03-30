@@ -76,6 +76,7 @@
 <h4><b>2.For the Solution! Just sign up on <a href="https://cron-job.org/">Cron-Job.org</a></b></h4>
 <h4><b>The Basic cause of this Error is that Heroku stop the dyno of your app after 30 Minutes of Interection (By User!) the above website will keep your App active by pining it in a particular time set by you. And for best choose Railway Deployment.</b></h4>
 <h4><b>3.This Error may also cause when Free Dyno Hours of heroku which is 550 Hours / Month gets over!</b></h4>
+<h4><b>4.To Fix the dyno used Error just make a new Account on Heroku and transfer the app ownership to it!</b></h4>
 <h2><b>🖇️ Quick Links</b></h2>
 <h4><b>Text Editor Download:</b></h4>
 <h4><b><a href="https://play.google.com/store/apps/details?id=com.maxistar.textpad" alt="For Android">Text Editor for Android</a></b></h4>
