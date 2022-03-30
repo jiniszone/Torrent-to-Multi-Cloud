@@ -5,16 +5,16 @@
   "keywords": ["qbittorrent-nox", "qbittorrent", "heroku", "web", "herokuweb", "safe", "password", "password", "no-password", "oneclickdeploy", "deploy-to-heroku", "docker"],
   "env": {
       "RCLONE_CONFIG_IN_RAW_URL": {
-      "description": "Paste rclone config in RAW url (use githubgist secret)",
+      "description": "Paste rclone config code URL",
       "value": ""
     },
       "WEBPASSWORD": {
       "description": "Set a Password",
-      "value": ""
+      "value": "Admin"
     },
       "WEBUSER": {
       "description": "Set a Username",
-      "value": "Enter your new username here"
+      "value": "Admin"
     }
 
 
