@@ -41,11 +41,9 @@ Here qBittorrent-nox (Linux) is used as web UI And Rclone is used as Uploader wi
 * Switch to application settings.
 * Scroll down to see `config vars` > click `Reveal Config Vars`.
 * use key as `selfping` and corresponding value as `your-deployed-app-name` 
-* example [image here](demo/-4962988908900100631_121.jpg)
 ##### v) PINGDOMAIN (Optional hidden config var)
  This config var is hidden and can be activated by 
 * Use config var , key `PINGDOMAIN` and corresponding value `http://your.custom.domain.com`
-* example [image here](https://user-images.githubusercontent.com/71500526/160111418-220d1420-ac47-4c6d-8bc2-faf26457483b.jpg)
 
 ## Common Errors
 * If  `This page isn’t workingIf the problem continues, contact the site owner. HTTP ERROR 401` is shown in browser change your browser url from `https://myapp.herokuapp.com` to `http://myapp.herokuapp.com/` . ie., change https to http
