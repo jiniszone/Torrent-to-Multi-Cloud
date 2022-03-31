@@ -44,7 +44,7 @@
 <h4><b>5.Clicking "View App" button will open a new website which is your QBitorrent Web App! Just remember the URL of your QBitorrent Web App and access it anytime and anywhere.</b></h4>
 <img src="Img/heroku-1.png" alt="Preview/6">
 <h4><b>6.If you deploy your QBitorrent Web App through Heroku then its URL should be like this: https://{appname}.herokuapp.com/</b></h4>
-<h4><b>7.Sometimes after deploying the Index! It may take max 10 Minutes to start working.</b></h4>
+<h4><b>7.Sometimes after deploying the App! It may take max 10 Minutes to start working.</b></h4>
 <h2><b>💤 Download/Transfer Getting Paused?</b></h2>
 <h4><b>1.This Problem only happens in Heroku after 30 Minutes.</b></h4>
 <h4><b>2.For the Solution! Just sign up on <a href="https://cron-job.org/">Cron-Job.org</a></b></h4>
