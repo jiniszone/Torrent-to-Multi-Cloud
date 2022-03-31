@@ -2,10 +2,9 @@
 <p><b>A Powerful Web Based app with QBitorrent Web UI to leech or seed it while unlocking the power of Rclone to transfer Data to any Cloud🔥</b></p>
 <h2><b>🆕What's New!🆕</b></h2>
 <p><b><i>v2.2.1 (Revolution Starts!)</i></b></p>
-<h4><b>1.Railway Deployment Supported!😉</b></h4>
-<h4><b>2.Optimized for Custom Domain.😌</b></h4>
-<h4><b>3.Gist GitHub guide added!😎</b></h4>
-<h4><b>4.Auto Rapid-Deploy crash on Heroku Fixed.🤔</b></h4>
+<h4><b>1.Optimized for Custom Domain.😌</b></h4>
+<h4><b>2.Gist GitHub guide added!😎</b></h4>
+<h4><b>3.Auto Rapid-Deploy crash on Heroku Fixed.🤔</b></h4>
 <h2><b>⛔ Notice</b></h2>
 <h4><b>1.Use Railway Deployment! For Adding Custom Domain.</b></h4>
 <h4><b>2.Never Share the address of your QBitorrent Web App.</b></h4>
@@ -34,10 +33,10 @@
 <h4><b>3.After opening the Deployment page, Enter the following Values</b></h4>
 <!---Heroku Values--->
 <p><b>
-	      1.App name - Give a Nice name to your App.<br>
-	      2.RCLONE_CONFIG_IN_RAW_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
-        3.WEBPASSWORD - If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
-        4.WEBUSER - If you set authentication to "true" then change its value! This value will be your Index Password<br>
+	1.App name - Give a Nice name to your App.<br>
+	2.RCLONE_CONFIG_IN_RAW_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
+        3.WEBPASSWORD - This value will be the Password of your App<br>
+        4.WEBUSER - This value will be your App Username<br>
 </b></p>
 <img src="Img/4.png" alt="4">
 <h4><b>4.Now click on the Deploy button and wait patiently and once it got successful deployed, click View App button</b></h4>
